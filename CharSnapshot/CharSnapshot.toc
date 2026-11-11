@@ -1,0 +1,12 @@
+## Interface: 11509, 11508
+## Title: CharSnapshot
+## Notes: Saves a full snapshot of each character (gear, bags, bank, mail, spells, talents, skills, reputation, quests, flight paths, pet...) to SavedVariables.
+## Author: brian-oblivion
+## Version: 0.2.2
+## SavedVariables: CharSnapshotDB
+
+Data.lua
+Core.lua
+Items.lua
+Character.lua
+Windows.lua
